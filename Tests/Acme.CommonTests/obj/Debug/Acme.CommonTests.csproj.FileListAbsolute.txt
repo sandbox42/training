@@ -1,0 +1,9 @@
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.dll
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.pdb
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.Common.dll
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.Common.pdb
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.csprojResolveAssemblyReference.cache
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.dll
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.pdb
