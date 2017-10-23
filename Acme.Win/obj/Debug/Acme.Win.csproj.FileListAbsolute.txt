@@ -1,0 +1,13 @@
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe.config
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\bin\Debug\Acme.Win.pdb
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.dll
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\bin\Debug\Acme.Common.dll
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.pdb
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\bin\Debug\Acme.Common.pdb
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csprojResolveAssemblyReference.cache
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.Properties.Resources.resources
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.VendorWin.resources
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.exe
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Win\obj\Debug\Acme.Win.pdb

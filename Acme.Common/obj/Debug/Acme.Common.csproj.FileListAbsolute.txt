@@ -1,0 +1,5 @@
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Common\bin\Debug\Acme.Common.dll
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Common\bin\Debug\Acme.Common.pdb
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Common\obj\Debug\Acme.Common.dll
+D:\GIT\CSharpBP-Collections-master\CSharpBP-Collections-master\AcmeApp\Acme.Common\obj\Debug\Acme.Common.pdb
